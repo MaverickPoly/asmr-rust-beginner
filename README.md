@@ -5,7 +5,7 @@
 2. **Basic Calculator**
     * Handle `+ - * /` operations with user input.
 3. **Unit Converter**
-    * Convert temperatures (C ↔ F), distances (km ↔ miles).
+    * Convert distances (km ↔ miles).
 4. **To-Do List CLI**
     * Add, remove, and view tasks (store in a text file).
 5. **Random Number Generator**
