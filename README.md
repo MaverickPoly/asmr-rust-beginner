@@ -14,7 +14,7 @@
     * Count words, characters, and lines in a file.
 7. **Simple Password Generator**
     * Random strong passwords (length and complexity options).
-8. **Coin Flip or Dice Roll Simulator**
+8. **Dice Roll Simulator**
     * Simulate random outcomes.
 9. **Stopwatch / Timer CLI**
     * Measure elapsed time.
