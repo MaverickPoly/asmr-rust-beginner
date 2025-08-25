@@ -1,0 +1,3 @@
+Hello world!
+This is my File Content to be
+read by rust program!
