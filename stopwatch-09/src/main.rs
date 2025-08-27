@@ -15,5 +15,5 @@ fn main() {
         println!("{}", input - i);
         thread::sleep(time::Duration::from_secs(1));
     }
-    println!("Stopwatch stopped!");
+    println!("Time is up!");
 }
