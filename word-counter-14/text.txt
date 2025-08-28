@@ -1,0 +1,4 @@
+Rust is a systems programming language.
+Rust is fast, reliable, and memory-safe.
+This file is just a simple test file.
+The word Rust appears several times in this file.
