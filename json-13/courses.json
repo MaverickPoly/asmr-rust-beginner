@@ -1,0 +1,27 @@
+[
+  {
+    "language": "Python",
+    "name": "Django",
+    "category": "Backend"
+  },
+  {
+    "language": "JavaScript",
+    "name": "React",
+    "category": "Frontend"
+  },
+  {
+    "language": "Java",
+    "name": "Swing",
+    "category": "Desktop"
+  },
+  {
+    "language": "Dart",
+    "name": "Flutter",
+    "category": "Mobile"
+  },
+  {
+    "language": "C",
+    "name": "Raylib",
+    "category": "Game"
+  }
+]

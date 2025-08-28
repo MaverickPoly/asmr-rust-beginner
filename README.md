@@ -26,13 +26,13 @@
 ## ✅ **Category 2: File & Text Handling**
 
 11. **File Renamer**
-    * Rename multiple files in a directory (add prefix/suffix).
+    * Rename a file in a directory (add prefix/suffix).
 12. **CSV Reader & Writer**
     * Read a CSV file and print it as a table.
 13. **JSON Formatter**
     * Pretty-print a JSON file (use `serde_json`).
-14. **Simple Log Parser**
-    * Count occurrences of certain words in a log file.
+14. **Simple word counter**
+    * Count occurrences of certain words in a text file.
 15. **Directory Tree Viewer**
     * Print directory structure like `tree` command.
 
